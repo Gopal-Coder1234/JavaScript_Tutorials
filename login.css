@@ -22,16 +22,19 @@ h1{
     color:tomato;
 }
 label{
-    text-align: center;
-    font-size: 36px;
+    text-align: right;
+    font-size: 26px;
     font-family: "Roboto";
+    width: 240px;
+    display: inline-block;
     
     
 }
 
 input{
     font-size: 25px;
-    margin-left: 200px;
+    border-radius: 8px;
+    width: 240px;
 }
 
 .new{
@@ -59,5 +62,8 @@ button{
     border-radius: 5px;
     margin: 10px;
     cursor: pointer;
+}
+span{
+    color:red;
 }
 

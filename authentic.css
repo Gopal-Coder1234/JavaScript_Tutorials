@@ -1,0 +1,32 @@
+body{
+    background-image: url(/bg.png);
+    background-size: cover;
+    height: 100vh;
+}
+label{
+    color:black;
+    font-weight: bold;
+    font-size: 26px;
+}
+input{
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px;
+}
+button{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    height: 36px;
+    width: 136px;
+    border-radius: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+p{
+    color:blueviolet;
+    font-size: 26px;
+}
